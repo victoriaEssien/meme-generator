@@ -47,6 +47,7 @@ main {
   text-indent: 8px;
   border-radius: 5px;
   border: 1px solid #D5D4D8;
+  outline: none;
 }
 
 .form-btn {
@@ -57,4 +58,8 @@ main {
   color: #fff;
   border: none;
   cursor: pointer;
+}
+
+.meme-image {
+  max-width: 100%;
 }
